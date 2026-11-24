@@ -1,0 +1,59 @@
+Name: priyansh sharma
+  stream: Science (PCM)
+  interest: Artificial Intelligence, Data and numbers, Software and coding
+  subject: Mathematics, Computer Science
+  skill: Programming, Analytical thinking, Problem solving
+  style: Independent work
+  preference: Research and innovation
+Matches:
+  1. AI/ML Engineer (91.7%)
+  2. Data Scientist (75.0%)
+  3. Software Engineer (65.0%)
+----------------------------------------
+Name: Aman
+  stream: Science (PCM)
+  interest: Artificial Intelligence, Data and numbers
+  subject: Mathematics, Computer Science
+  skill: Programming, Analytical thinking, Problem solving
+  style: Independent work
+  preference: Research and innovation, Building products and apps
+Matches:
+  1. AI/ML Engineer (100.0%)
+  2. Data Scientist (78.3%)
+  3. Software Engineer (61.7%)
+----------------------------------------
+Name: dev
+  stream: Arts / Humanities
+  interest: Art and design, Writing and journalism
+  subject: English, History
+  skill: Creativity, Communication
+  style: Working with people
+  preference: Creative work
+Matches:
+  1. UI/UX Designer (77.5%)
+  2. Digital Marketer (77.5%)
+  3. Journalist (65.0%)
+----------------------------------------
+Name: uday
+  stream: Commerce
+  interest: Business and finance, Understanding people and behaviour, Teaching and education
+  subject: Economics, Accountancy
+  skill: Public speaking, Numerical ability
+  style: Independent work, Fieldwork and outdoor work
+  preference: Security and protection, Stable and well-paid jobs, Government jobs
+Matches:
+  1. Chartered Accountant (59.2%)
+  2. Business Analyst (54.2%)
+----------------------------------------
+Name: Atif
+  stream: Arts / Humanities
+  interest: Art and design
+  subject: Art and Design, Psychology
+  skill: Creativity, Public speaking
+  style: Independent work, Team work
+  preference: Creative work
+Matches:
+  1. Fashion or Graphic Designer (77.5%)
+  2. Game Developer (72.5%)
+  3. UI/UX Designer (72.5%)
+----------------------------------------

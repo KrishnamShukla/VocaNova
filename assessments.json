@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Atif",
+    "date": "24 Nov 2026, 12:00 PM",
+    "profile": {
+      "stream": [
+        "Arts / Humanities"
+      ],
+      "interest": [
+        "Art and design"
+      ],
+      "subject": [
+        "Art and Design",
+        "Psychology"
+      ],
+      "skill": [
+        "Creativity",
+        "Public speaking"
+      ],
+      "style": [
+        "Independent work",
+        "Team work"
+      ],
+      "preference": [
+        "Creative work"
+      ]
+    },
+    "matches": [
+      {
+        "name": "Fashion or Graphic Designer",
+        "score": 77.5
+      },
+      {
+        "name": "Game Developer",
+        "score": 72.5
+      },
+      {
+        "name": "UI/UX Designer",
+        "score": 72.5
+      }
+    ]
+  },
+  {
+    "name": "uday",
+    "date": "24 Nov 2026, 11:50 AM",
+    "profile": {
+      "stream": [
+        "Commerce"
+      ],
+      "interest": [
+        "Business and finance",
+        "Understanding people and behaviour",
+        "Teaching and education"
+      ],
+      "subject": [
+        "Economics",
+        "Accountancy"
+      ],
+      "skill": [
+        "Public speaking",
+        "Numerical ability"
+      ],
+      "style": [
+        "Independent work",
+        "Fieldwork and outdoor work"
+      ],
+      "preference": [
+        "Security and protection",
+        "Stable and well-paid jobs",
+        "Government jobs"
+      ]
+    },
+    "matches": [
+      {
+        "name": "Chartered Accountant",
+        "score": 59.2
+      },
+      {
+        "name": "Business Analyst",
+        "score": 54.2
+      }
+    ]
+  },
+  {
+    "name": "dev",
+    "date": "24 Nov 2026, 11:43 AM",
+    "profile": {
+      "stream": [
+        "Arts / Humanities"
+      ],
+      "interest": [
+        "Art and design",
+        "Writing and journalism"
+      ],
+      "subject": [
+        "English",
+        "History"
+      ],
+      "skill": [
+        "Creativity",
+        "Communication"
+      ],
+      "style": [
+        "Working with people"
+      ],
+      "preference": [
+        "Creative work"
+      ]
+    },
+    "matches": [
+      {
+        "name": "UI/UX Designer",
+        "score": 77.5
+      },
+      {
+        "name": "Digital Marketer",
+        "score": 77.5
+      },
+      {
+        "name": "Journalist",
+        "score": 65.0
+      }
+    ]
+  },
+  {
+    "name": "Aman",
+    "date": "24 Nov 2026, 11:41 AM",
+    "profile": {
+      "stream": [
+        "Science (PCM)"
+      ],
+      "interest": [
+        "Artificial Intelligence",
+        "Data and numbers"
+      ],
+      "subject": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "skill": [
+        "Programming",
+        "Analytical thinking",
+        "Problem solving"
+      ],
+      "style": [
+        "Independent work"
+      ],
+      "preference": [
+        "Research and innovation",
+        "Building products and apps"
+      ]
+    },
+    "matches": [
+      {
+        "name": "AI/ML Engineer",
+        "score": 100.0
+      },
+      {
+        "name": "Data Scientist",
+        "score": 78.3
+      },
+      {
+        "name": "Software Engineer",
+        "score": 61.7
+      }
+    ]
+  },
+  {
+    "name": "priyansh sharma",
+    "date": "24 Nov 2026, 11:37 AM",
+    "profile": {
+      "stream": [
+        "Science (PCM)"
+      ],
+      "interest": [
+        "Artificial Intelligence",
+        "Data and numbers",
+        "Software and coding"
+      ],
+      "subject": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "skill": [
+        "Programming",
+        "Analytical thinking",
+        "Problem solving"
+      ],
+      "style": [
+        "Independent work"
+      ],
+      "preference": [
+        "Research and innovation"
+      ]
+    },
+    "matches": [
+      {
+        "name": "AI/ML Engineer",
+        "score": 91.7
+      },
+      {
+        "name": "Data Scientist",
+        "score": 75.0
+      },
+      {
+        "name": "Software Engineer",
+        "score": 65.0
+      }
+    ]
+  }
+]
